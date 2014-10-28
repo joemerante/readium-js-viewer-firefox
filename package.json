@@ -1,11 +1,12 @@
 {
-  "name": "readium-js-viewer",
-  "version": "0.15.2",
-  "homepage": "https://github.com/readium/readium-js-viewer",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/readium/readium-js-viewer.git"
-  },
+  "name": "readium-js-viewer-firefox",
+  "title": "Readium for Firefox",
+  "id": "jid1-ANOwAN78qEp1Gw",
+  "description": "a basic add-on",
+  "author": "Joe Merante and Derek Kurth",
+  "license": "MPL 2.0",
+  "version": "0.0.1",
+  "repository": "tbd",
   "devDependencies": {
     "chai": "^1.9.1",
     "chai-as-promised": "^4.1.1",
